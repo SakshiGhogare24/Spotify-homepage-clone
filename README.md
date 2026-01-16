@@ -17,6 +17,10 @@ This project focuses on recreating the visual layout and design of Spotify’s w
 * HTML
 * CSS
 
+## Live Demo
+
+* https://sakshighogare24.github.io/Spotify-homepage-clone/
+
 ## 🚀 Learning Outcome
 
 * Improved understanding of HTML structure
